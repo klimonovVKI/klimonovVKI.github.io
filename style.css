@@ -4,7 +4,8 @@ body {
   font-size: 14px;
   line-height: 18px;
   color: #000000;
-  background: #ffffff url("https://mirpozitiva.ru/photo/1252-krasivye-kartinki.html") no-repeat 50% 0;
+  background-image: url("http://www.evropa.nikopol.net/fon1/background_31.png");
+  background-repeat: repeat;
 }
 
 h1 {
